@@ -28,6 +28,7 @@ sudo apt-get upgrade -y
 ````bash
 free -h
 df -h
+sudo swapoff -a
 sudo fallocate -l 4G /swapfile          # Change 4G to the proper size swap file for your server
 sudo chmod 600 /swapfile
 sudo mkswap /swapfile
