@@ -1,5 +1,7 @@
 # How to update to a newer version of graft-ng
 
+this is mumblejumble
+
 Note: this assumes that you already have a working graft-ng and want to update to a new release.
 
 It also assumes that your `graft-ng` is checked out in `~/graft-ng` and that your build directory is `~/supernode`.
